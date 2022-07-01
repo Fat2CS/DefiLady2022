@@ -15,7 +15,7 @@ const Tendance = () => {
     };
     fetchData();
   }, []);
-  console.log(data.coins[1].item.name);
+  // console.log(data.coins[1].item.name);
 
   // data.coins.map((item, index) => {
   return (
