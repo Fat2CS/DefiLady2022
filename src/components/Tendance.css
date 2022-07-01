@@ -1,0 +1,12 @@
+.tendance {
+  margin: 9rem 19rem;
+}
+.tendance h1 {
+  text-align: center;
+}
+.trend {
+  border: solid 1px purple;
+  height: 300px;
+  width: 100%;
+  margin-top: 45px;
+}

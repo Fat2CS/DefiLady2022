@@ -1,0 +1,41 @@
+.footer {
+  background-color: purple;
+  padding: 5rem 0;
+  clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
+  /* trapèze haut */
+}
+.footer .container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 0 15rem;
+}
+.footer .col {
+  display: flex;
+  flex-direction: column;
+}
+.footer .bar {
+  width: 40px;
+  align-items: center;
+  border-bottom: 4px solid black;
+  margin: 1rem 0;
+}
+
+.footer a {
+  font-size: 1rem;
+}
+.footer .icon {
+  color: rgb(38, 36, 36);
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 940px) {
+  .footer .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer .col-1 {
+    display: none;
+  }
+}
