@@ -3,6 +3,7 @@
   padding: 8rem 0;
   background-color: (--background);
   clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 90%);
+  margin-top: -3rem;
 }
 .fonctionnalités .container {
   display: grid;
