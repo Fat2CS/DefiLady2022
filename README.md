@@ -7,8 +7,7 @@ new features will be added
 
 
 ## demo
-[
-](https://defilady.netlify.app/)
+https://defilady.netlify.app/
 
 ## Available Scripts
 
