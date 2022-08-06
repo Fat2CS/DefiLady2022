@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Defi Lady
+VERSION Beta
+An application dedicated to girls who invest in cryptocurrency, it is created via the CoinGecko API.
+It is at the very beginning the idea is to become a mine of information for beginners in cryptocurrency.
+new features will be added
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## demo
+https://defilady.netlify.app/
 
 ## Available Scripts
 
