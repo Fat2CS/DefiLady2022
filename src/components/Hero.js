@@ -16,7 +16,7 @@ const Hero = () => {
             Cryptomonaie !
           </p>
           <p className="purple">
-            Achetez, Vendez, sur une centaine de plateforme d'échange de
+            Achetez, Vendez, sur une centaine de plateformes d'échange de
             Cryptomonnaie
           </p>
           <div className="input-container">
